@@ -2,8 +2,7 @@
 
 ### Day 0 -  Palestine Flag
 
-<!-- add image using hmtl -->
-<img src="https://github.com/AhmedMohamedAbdelaty/30-Days-HTML-CSS-Challenge/assets/73834838/069993dd-f507-4c95-b674-60d71e67d542" style="text-align:center"/>
+<img src="https://github.com/AhmedMohamedAbdelaty/30-Days-HTML-CSS-Challenge/assets/73834838/e5312224-e1d2-4cb7-ab38-59b5033e2d30" style="text-align:center"/>
 
 ----
 

@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    background: linear-gradient(black calc(100% / 3),white calc(100% / 3), white calc((100% / 3) * 2), #017b3d calc((100% / 3) * 2));
+}
+
+body::before {
+    content: "";
+    position: fixed;
+    top: 1%;
+    width: 0;
+    height: 0;
+    border: 470px solid transparent;
+    border-left-color: #ea1b28;
+}

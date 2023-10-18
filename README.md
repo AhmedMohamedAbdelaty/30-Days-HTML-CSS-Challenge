@@ -1,5 +1,12 @@
 # 30 Days HTML CSS Challenge
 
+### Day 0 -  Palestine Flag
+
+<!-- add image using hmtl -->
+<img src="https://github.com/AhmedMohamedAbdelaty/30-Days-HTML-CSS-Challenge/assets/73834838/069993dd-f507-4c95-b674-60d71e67d542" style="text-align:center"/>
+
+----
+
 ### Day 1 - Responsive CSS Cards
 
 Challenge Link : [Responsive CSS Cards Using HTML and CSS | HTML CSS Tutorial](https://youtu.be/0gyDGZmvTSA?list=PLUYs5M6kem7kFZhEbhZKnoW2H7Gif3P01)

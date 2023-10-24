@@ -17,3 +17,15 @@ Challenge Link : [Responsive CSS Cards Using HTML and CSS | HTML CSS Tutorial](h
 <video src="https://github.com/AhmedMohamedAbdelaty/30-Days-HTML-CSS-Challenge/assets/73834838/8f88dde8-5e2e-422d-bf92-498c27959872" style="width: 50%"></video>
 
 ----
+
+### Day 2 - CSS Animated Responsive Cards Hover Effects
+
+Challenge Link : [CSS Animated Responsive Cards Hover Effects](https://youtu.be/2ipVafDw2ss?list=PLt_IGynSbKXCKNXtapI1IfNN-WI1UBVnX)
+
+<div style="text-align:center">
+    <img src="https://github.com/AhmedMohamedAbdelaty/30-Days-HTML-CSS-Challenge/assets/73834838/0c4d171a-06dc-4e81-8d6e-5cbd90de0643" style="margin: auto"/>
+</div>
+
+<video src="https://github.com/AhmedMohamedAbdelaty/30-Days-HTML-CSS-Challenge/assets/73834838/f7047db4-5fe1-49d2-afde-d93c834dc234" style="width: 50%"></video>
+
+----

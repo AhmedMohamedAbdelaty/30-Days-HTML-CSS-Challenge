@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Autour+One&family=Gabarito:wght@600&family=Raleway:wght@500&family=Teko:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manrope&display=swap');
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body {
+    background: #B3FFAB;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #12FFF7, #B3FFAB);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #12FFF7, #B3FFAB);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 100px 50px;
+    gap: 100px 50px;
+}
+.container .card {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 350px;
+    height: 300px;
+    background-color: white;
+    border-radius: 20px;
+    transition: 0.5s;
+    box-shadow: 0 30px 50px rgba(0, 0, 0, 0.2);
+}
+
+.container .card:hover {
+    height: 380px;
+}
+.container .card .img {
+    position: absolute;
+    width: 300px;
+    height: 220px;
+    top: 20px;
+    border-radius: 15px;
+    overflow: hidden;
+    transition: 0.5s;
+}
+.container .card:hover .img{
+    position: absolute;
+    top:-100px;
+    scale : 0.85;
+    box-shadow: 0 30px 50px rgba(0, 0, 0, 0.2);
+}
+.container .card .img img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+.container .card .content {
+    position: absolute;
+    width: 100%;
+    padding: 0 30px;
+    text-align: center;
+    top: 255px;
+    height: 28px;
+    overflow: hidden;
+    font-family: Manrope;
+    transition: 0.5s;
+}
+.container .card .content h2 {
+    font-family: Raleway;
+    color: var(--clr)
+}
+.container .card .content p {
+    color: #333;
+    margin-top: 10px;
+}
+.container .card .content a {
+    position: relative;
+    top: 20px;
+    display: inline-block;
+    padding: 8px 20px;
+    background-color: var(--clr);
+    color: #fff;
+    text-decoration: none;
+    border-radius: 18px;
+}
+.container .card:hover .content {
+    height: 250px;
+    top: 150px
+}
